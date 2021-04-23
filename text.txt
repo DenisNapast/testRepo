@@ -1,0 +1,5 @@
+This is the file in new Branch on dev1
+
+and have more line of text
+
+and ready for merge
