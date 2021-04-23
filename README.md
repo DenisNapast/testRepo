@@ -1,2 +1,2 @@
 # testRepo
-Repository for testing
+Repository for testing, learning and use git for new project
