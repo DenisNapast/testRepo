@@ -3,3 +3,11 @@ This is the file in new Branch on dev1
 and have more line of text
 
 and ready for merge
+
+today i will add some new line in this test file
+
+new line 1
+
+new line 2
+ new line 2
+
